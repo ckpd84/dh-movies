@@ -1,4 +1,4 @@
-theaters = [
+[
 	{
 		"name": "DH Multiplex - Brisas del Volador",
 		"address": "Brisas del Volador Shopping – Panamericana Km 50 – Las Magnolias 754 Pilar",
@@ -24,5 +24,3 @@ theaters = [
 		"total_rooms": 2
 	}
 ];
-
-module.exports = theaters;
